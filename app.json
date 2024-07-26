@@ -9,14 +9,14 @@
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",    
-      "value": "Suhail Ser",
+      "value": "Tabish Ali",
       "required" :true
     },   
      
     "WELCOME": {
       "description": "put 'false' or 'true' to enable & disable WELCOME ",
       "value": "true",
-      "required" :false
+      "required" :true
     },
      
     "GOODBYE": {
@@ -128,7 +128,7 @@
     },
     "PACK_AUTHER": {
       "description": "Put Sticker Author_Name.",
-      "value": "",
+      "value": "Tabish Ali",
       "required": false 
     }
   }, 
